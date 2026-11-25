@@ -1,3 +1,3 @@
-Medical Blog
+## Medical Blog
 
-aaboshaisha.github.io-med
+[medblog](aaboshaisha.github.io-med)
