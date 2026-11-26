@@ -1,3 +1,3 @@
 ## Medical Blog
 
-[medblog](aaboshaisha.github.io-med)
+[BrainStuff](https://aaboshaisha.github.io/brainstuff)
